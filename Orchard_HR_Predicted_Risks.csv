@@ -1,0 +1,203 @@
+Year,Orchard,State,Region,Variety,Total_Trees_Assessed,HR Incidence,Predicted_Risk_Probability,Predicted_Risk_Level
+2018.19,Belvedere,Vic,Riverina,Carmel,11,0.0,0.11,Low
+2018.19,Belvedere,Vic,Riverina,Monterey,1,0.0,0.18,Low
+2018.19,Belvedere,Vic,Riverina,Np,25,0.76,0.82,High
+2018.19,Belvedere,Vic,Riverina,Price,5,0.4,0.67,High
+2018.19,Bennett,Vic,Sunraysia,Carmel,12,0.0,0.0,Low
+2018.19,Bennett,Vic,Sunraysia,Np,19,0.8947368421052632,0.64,High
+2018.19,Bennett,Vic,Sunraysia,Price,2,0.0,0.0,Low
+2018.19,Big River Produce,SA,Riverland,Carmel,13,0.0769230769230769,0.0,Low
+2018.19,Big River Produce,SA,Riverland,Np,11,0.2727272727272727,0.08,Low
+2018.19,Big River Produce,SA,Riverland,Price,6,0.0,0.0,Low
+2018.19,Caernarvon,Vic,Sunraysia,Carmel,19,0.1052631578947368,0.15,Low
+2018.19,Caernarvon,Vic,Sunraysia,Np,26,1.0,0.95,High
+2018.19,Caernarvon,Vic,Sunraysia,Price,9,0.5555555555555556,0.87,High
+2018.19,Carina,Vic,Sunraysia,Carmel,9,0.1111111111111111,0.15,Low
+2018.19,Carina,Vic,Sunraysia,Np,21,1.0,0.94,High
+2018.19,Carina,Vic,Sunraysia,Price,6,0.8333333333333334,0.83,High
+2018.19,Century Loxton,SA,Riverland,Carmel,84,0.0595238095238095,0.03,Low
+2018.19,Century Loxton,SA,Riverland,Np,107,0.3644859813084112,0.72,High
+2018.19,Century Loxton,SA,Riverland,Peerless,12,0.0,0.02,Low
+2018.19,Century Loxton,SA,Riverland,Price,4,0.0,0.03,Low
+2018.19,Chatfield,WA,WA,Carmel,16,0.0,0.0,Low
+2018.19,Chatfield,WA,WA,Monterey,5,0.0,0.07,Low
+2018.19,Chatfield,WA,WA,Np,21,0.0,0.03,Low
+2018.19,Chatfield,WA,WA,Price,6,0.0,0.01,Low
+2018.19,Cmv Lp,SA,Riverland,Carmel,70,0.1571428571428571,0.03,Low
+2018.19,Cmv Lp,SA,Riverland,Monterey,26,0.0769230769230769,0.07,Low
+2018.19,Cmv Lp,SA,Riverland,Np,137,0.4087591240875912,0.87,High
+2018.19,Cmv Lp,SA,Riverland,Peerless,21,0.1904761904761904,0.07,Low
+2018.19,Domenic Cavallaro,SA,Adelaide Plains,Carina,6,0.0,0.06,Low
+2018.19,Domenic Cavallaro,SA,Adelaide Plains,Keane,8,0.125,0.07,Low
+2018.19,Domenic Cavallaro,SA,Adelaide Plains,Np,32,0.8125,0.6,High
+2018.19,Domenic Cavallaro,SA,Adelaide Plains,Peerless,7,0.0,0.02,Low
+2018.19,Egan Rd,Vic,Riverina,Carmel,7,0.0,0.2,Medium
+2018.19,Egan Rd,Vic,Riverina,Independence,8,0.0,0.24,Medium
+2018.19,Egan Rd,Vic,Riverina,Monterey,1,1.0,0.87,High
+2018.19,Egan Rd,Vic,Riverina,Np,9,0.7777777777777778,0.9,High
+2018.19,Egan Rd,Vic,Riverina,Peerless,2,0.5,0.92,High
+2018.19,Egan Rd,Vic,Riverina,Price,2,0.5,0.94,High
+2018.19,Freeman Farming,SA,Riverland,Carmel,36,0.1944444444444444,0.02,Low
+2018.19,Freeman Farming,SA,Riverland,Ne Plus,11,0.0909090909090909,0.02,Low
+2018.19,Freeman Farming,SA,Riverland,Np,27,0.1851851851851851,0.14,Low
+2018.19,Gary Thorpe,SA,Riverland,Carmel,13,0.0769230769230769,0.03,Low
+2018.19,Gary Thorpe,SA,Riverland,Np,33,0.4848484848484848,0.85,High
+2018.19,Gary Thorpe,SA,Riverland,Peerless,11,0.0,0.07,Low
+2018.19,Gone Nuts,SA,Riverland,Carmel,12,0.1666666666666666,0.0,Low
+2018.19,Gone Nuts,SA,Riverland,Fritz,11,0.1818181818181818,0.03,Low
+2018.19,Gone Nuts,SA,Riverland,Ne Plus,5,0.0,0.04,Low
+2018.19,Gone Nuts,SA,Riverland,Np,30,0.0333333333333333,0.19,Low
+2018.19,Jubilee,SA,Riverland,Carmel,25,0.16,0.08,Low
+2018.19,Jubilee,SA,Riverland,Monterey,36,0.0,0.03,Low
+2018.19,Jubilee,SA,Riverland,Ne Plus,5,0.4,0.65,High
+2018.19,Jubilee,SA,Riverland,Np,77,0.2597402597402597,0.05,Low
+2018.19,Jubilee,SA,Riverland,Vella,67,0.0,0.06,Low
+2018.19,Jubilee,SA,Riverland,Wood Colony,6,0.0,0.11,Low
+2018.19,Lake Powell,Vic,Sunraysia,Carmel,35,0.0571428571428571,0.19,Low
+2018.19,Lake Powell,Vic,Sunraysia,Np,42,0.9761904761904762,0.93,High
+2018.19,Lake Powell,Vic,Sunraysia,Price,4,0.75,0.76,High
+2018.19,Margooya,Vic,Sunraysia,Carmel,21,0.2857142857142857,0.14,Low
+2018.19,Margooya,Vic,Sunraysia,Monterey,1,0.0,0.21,Medium
+2018.19,Margooya,Vic,Sunraysia,Np,27,0.925925925925926,0.92,High
+2018.19,Margooya,Vic,Sunraysia,Price,8,0.75,0.8,High
+2018.19,Mclaren Dr,Vic,Sunraysia,Carmel,5,0.0,0.0,Low
+2018.19,Mclaren Dr,Vic,Sunraysia,Monterey,5,0.0,0.0,Low
+2018.19,Mclaren Dr,Vic,Sunraysia,Np,21,0.238095238095238,0.17,Low
+2018.19,Mclaren Dr,Vic,Sunraysia,Price,3,0.0,0.0,Low
+2018.19,Meilman,Vic,Sunraysia,Carmel,18,0.0,0.0,Low
+2018.19,Meilman,Vic,Sunraysia,Monterey,13,0.0,0.0,Low
+2018.19,Meilman,Vic,Sunraysia,Np,31,0.0,0.28,Medium
+2018.19,Mullroo,Vic,Sunraysia,Carmel,14,0.0,0.0,Low
+2018.19,Mullroo,Vic,Sunraysia,Monterey,21,0.0,0.05,Low
+2018.19,Mullroo,Vic,Sunraysia,Np,43,0.2790697674418604,0.13,Low
+2018.19,Mullroo,Vic,Sunraysia,Price,2,0.0,0.03,Low
+2018.19,Nick Pezzaniti,SA,Adelaide Plains,Fritz,8,0.5,0.61,High
+2018.19,Nick Pezzaniti,SA,Adelaide Plains,Keane,31,0.0,0.11,Low
+2018.19,Nick Pezzaniti,SA,Adelaide Plains,Np,77,0.2077922077922078,0.07,Low
+2018.19,Nick Pezzaniti,SA,Adelaide Plains,Price,7,0.0,0.13,Low
+2018.19,Nutwood,Vic,Riverland,Carmel,18,0.0,0.02,Low
+2018.19,Nutwood,Vic,Riverland,Monterey,1,0.0,0.0,Low
+2018.19,Nutwood,Vic,Riverland,Np,36,0.7222222222222222,0.8,High
+2018.19,Nutwood,Vic,Riverland,Peerless,1,0.0,0.01,Low
+2018.19,Nutwood,Vic,Riverland,Price,4,0.25,0.0,Low
+2018.19,Nutwood,Vic,Riverland,Wood Colony,3,0.0,0.0,Low
+2018.19,Outback,Vic,Sunraysia,Carmel,16,0.0,0.01,Low
+2018.19,Outback,Vic,Sunraysia,Fritz,5,0.0,0.03,Low
+2018.19,Outback,Vic,Sunraysia,Np,18,0.1111111111111111,0.31,Medium
+2018.19,Outback,Vic,Sunraysia,Wood Colony,3,0.0,0.01,Low
+2018.19,Vince Ruggiero,SA,Adelaide Plains,Johnson,34,0.4411764705882353,0.89,High
+2018.19,Vince Ruggiero,SA,Adelaide Plains,Np,53,0.7169811320754716,0.91,High
+2018.19,Vince Ruggiero,SA,Adelaide Plains,Wild Type,55,0.3090909090909091,0.91,High
+2018.19,Walker Flat Almonds,SA,Riverland,Carina,10,0.0,0.01,Low
+2018.19,Walker Flat Almonds,SA,Riverland,Carmel,25,0.04,0.0,Low
+2018.19,Walker Flat Almonds,SA,Riverland,Maxima,6,0.1666666666666666,0.01,Low
+2018.19,Walker Flat Almonds,SA,Riverland,Np,82,0.073170731707317,0.0,Low
+2018.19,Walker Flat Almonds,SA,Riverland,Price,21,0.0952380952380952,0.01,Low
+2018.19,Wemen,Vic,Sunraysia,Carmel,6,0.0,0.03,Low
+2018.19,Wemen,Vic,Sunraysia,Np,12,0.6666666666666666,0.86,High
+2018.19,Wemen,Vic,Sunraysia,Price,5,0.2,0.12,Low
+2018.19,Yilgah,Vic,Riverina,Carmel,19,0.0526315789473684,0.05,Low
+2018.19,Yilgah,Vic,Riverina,Independence,10,0.2,0.07,Low
+2018.19,Yilgah,Vic,Riverina,Np,18,1.0,0.83,High
+2018.19,Yilgah,Vic,Riverina,Price,5,0.2,0.12,Low
+2019.2,Belvedere,NSW,Riverina,Carmel,11,0.0,0.08,Low
+2019.2,Belvedere,NSW,Riverina,Monterey,1,0.0,0.14,Low
+2019.2,Belvedere,NSW,Riverina,Np,23,0.782608695652174,0.88,High
+2019.2,Belvedere,NSW,Riverina,Price,5,0.0,0.1,Low
+2019.2,Bennett,Vic,Sunraysia,Carmel,10,0.0,0.01,Low
+2019.2,Bennett,Vic,Sunraysia,Np,20,0.9,0.76,High
+2019.2,Bennett,Vic,Sunraysia,Price,3,0.0,0.03,Low
+2019.2,Big River Produce,SA,Riverland,Carmel,13,0.1538461538461538,0.13,Low
+2019.2,Big River Produce,SA,Riverland,Np,11,0.6363636363636364,0.9,High
+2019.2,Big River Produce,SA,Riverland,Price,6,0.5,0.76,High
+2019.2,Caernarvon,Vic,Sunraysia,Carmel,19,0.0,0.09,Low
+2019.2,Caernarvon,Vic,Sunraysia,Np,26,1.0,0.97,High
+2019.2,Caernarvon,Vic,Sunraysia,Price,9,0.0,0.23,Medium
+2019.2,Carina,Vic,Sunraysia,Carmel,9,0.0,0.03,Low
+2019.2,Carina,Vic,Sunraysia,Np,21,0.8571428571428571,0.96,High
+2019.2,Carina,Vic,Sunraysia,Price,6,0.0,0.02,Low
+2019.2,Century Loxton,SA,Riverland,Carmel,84,0.0119047619047619,0.02,Low
+2019.2,Century Loxton,SA,Riverland,Np,107,0.0934579439252336,0.21,Medium
+2019.2,Century Loxton,SA,Riverland,Peerless,12,0.0,0.01,Low
+2019.2,Century Loxton,SA,Riverland,Price,4,0.0,0.01,Low
+2019.2,Chatfield,WA,WA,Carmel,17,0.0,0.08,Low
+2019.2,Chatfield,WA,WA,Monterey,5,0.4,0.63,High
+2019.2,Chatfield,WA,WA,Np,23,0.1304347826086956,0.06,Low
+2019.2,Chatfield,WA,WA,Price,6,0.0,0.13,Low
+2019.2,Cmv Lp,SA,Riverland,Carmel,73,0.0273972602739726,0.03,Low
+2019.2,Cmv Lp,SA,Riverland,Monterey,26,0.0,0.05,Low
+2019.2,Cmv Lp,SA,Riverland,Np,137,0.4817518248175182,0.92,High
+2019.2,Cmv Lp,SA,Riverland,Peerless,21,0.1428571428571428,0.03,Low
+2019.2,Domenic Cavallaro,SA,Adelaide Plains,Carina,6,0.5,0.98,High
+2019.2,Domenic Cavallaro,SA,Adelaide Plains,Keane,8,0.75,0.99,High
+2019.2,Domenic Cavallaro,SA,Adelaide Plains,Np,32,0.84375,1.0,High
+2019.2,Egan Rd,NSW,Riverina,Carmel,7,0.0,0.13,Low
+2019.2,Egan Rd,NSW,Riverina,Independence,4,0.0,0.18,Low
+2019.2,Egan Rd,NSW,Riverina,Monterey,1,1.0,0.73,High
+2019.2,Egan Rd,NSW,Riverina,Np,9,0.7777777777777778,0.83,High
+2019.2,Egan Rd,NSW,Riverina,Peerless,2,0.0,0.21,Medium
+2019.2,Egan Rd,NSW,Riverina,Price,2,1.0,0.74,High
+2019.2,Freeman Farming,SA,Riverland,Carmel,36,0.2222222222222222,0.09,Low
+2019.2,Freeman Farming,SA,Riverland,Ne Plus,11,0.1818181818181818,0.04,Low
+2019.2,Freeman Farming,SA,Riverland,Np,27,0.5185185185185185,0.85,High
+2019.2,Gary Thorpe,SA,Riverland,Carmel,12,0.3333333333333333,0.61,High
+2019.2,Gary Thorpe,SA,Riverland,Np,31,0.3548387096774194,0.89,High
+2019.2,Gary Thorpe,SA,Riverland,Peerless,11,0.1818181818181818,0.25,Medium
+2019.2,Gone Nuts,SA,Riverland,Carmel,12,0.0833333333333333,0.04,Low
+2019.2,Gone Nuts,SA,Riverland,Fritz,11,0.1818181818181818,0.01,Low
+2019.2,Gone Nuts,SA,Riverland,Ne Plus,5,0.0,0.01,Low
+2019.2,Gone Nuts,SA,Riverland,Np,30,0.3,0.82,High
+2019.2,Jubilee,SA,Riverland,Carina,25,0.08,0.08,Low
+2019.2,Jubilee,SA,Riverland,Carmel,25,0.08,0.08,Low
+2019.2,Jubilee,SA,Riverland,Monterey,36,0.0277777777777777,0.08,Low
+2019.2,Jubilee,SA,Riverland,Ne Plus,5,0.2,0.06,Low
+2019.2,Jubilee,SA,Riverland,Np,77,0.7792207792207793,0.84,High
+2019.2,Jubilee,SA,Riverland,Vella,42,0.0476190476190476,0.12,Low
+2019.2,Jubilee,SA,Riverland,Wood Colony,6,0.1666666666666666,0.05,Low
+2019.2,Lake Powell,Vic,Sunraysia,Carmel,35,0.0285714285714285,0.04,Low
+2019.2,Lake Powell,Vic,Sunraysia,Np,42,0.7380952380952381,0.81,High
+2019.2,Lake Powell,Vic,Sunraysia,Price,4,0.0,0.17,Low
+2019.2,Margooya,Vic,Sunraysia,Carmel,21,0.0,0.1,Low
+2019.2,Margooya,Vic,Sunraysia,Monterey,1,0.0,0.1,Low
+2019.2,Margooya,Vic,Sunraysia,Np,25,0.76,0.97,High
+2019.2,Margooya,Vic,Sunraysia,Price,10,0.4,0.66,High
+2019.2,Mclaren Dr,Vic,Sunraysia,Carmel,5,0.0,0.03,Low
+2019.2,Mclaren Dr,Vic,Sunraysia,Monterey,5,0.0,0.04,Low
+2019.2,Mclaren Dr,Vic,Sunraysia,Np,21,0.5714285714285714,0.73,High
+2019.2,Mclaren Dr,Vic,Sunraysia,Price,3,0.0,0.01,Low
+2019.2,Meilman,Vic,Sunraysia,Carmel,19,0.0,0.07,Low
+2019.2,Meilman,Vic,Sunraysia,Monterey,13,0.0,0.18,Low
+2019.2,Meilman,Vic,Sunraysia,Np,30,0.4333333333333333,0.96,High
+2019.2,Mullroo,Vic,Sunraysia,Carmel,13,0.0,0.03,Low
+2019.2,Mullroo,Vic,Sunraysia,Monterey,22,0.0,0.14,Low
+2019.2,Mullroo,Vic,Sunraysia,Np,43,0.4186046511627907,0.86,High
+2019.2,Mullroo,Vic,Sunraysia,Price,2,0.0,0.05,Low
+2019.2,Nick Pezzaniti,SA,Adelaide Plains,Fritz,8,0.625,0.99,High
+2019.2,Nick Pezzaniti,SA,Adelaide Plains,Keane,31,0.3225806451612903,0.99,High
+2019.2,Nick Pezzaniti,SA,Adelaide Plains,Np,72,0.5833333333333334,1.0,High
+2019.2,Nick Pezzaniti,SA,Adelaide Plains,Price,7,0.5714285714285714,0.99,High
+2019.2,Nutwood,Vic,Riverland,Carmel,18,0.0,0.0,Low
+2019.2,Nutwood,Vic,Riverland,Monterey,1,0.0,0.0,Low
+2019.2,Nutwood,Vic,Riverland,Np,36,0.8888888888888888,0.91,High
+2019.2,Nutwood,Vic,Riverland,Peerless,1,0.0,0.0,Low
+2019.2,Nutwood,Vic,Riverland,Price,4,0.0,0.03,Low
+2019.2,Nutwood,Vic,Riverland,Wood Colony,3,0.0,0.0,Low
+2019.2,Outback,NSW,Sunraysia,Carmel,15,0.0,0.04,Low
+2019.2,Outback,NSW,Sunraysia,Fritz,4,0.0,0.05,Low
+2019.2,Outback,NSW,Sunraysia,Np,21,0.4285714285714285,0.82,High
+2019.2,Outback,NSW,Sunraysia,Wood Colony,2,0.0,0.01,Low
+2019.2,Vince Ruggiero,SA,Adelaide Plains,Johnson,34,0.3529411764705882,0.99,High
+2019.2,Vince Ruggiero,SA,Adelaide Plains,Np,53,0.7924528301886793,1.0,High
+2019.2,Vince Ruggiero,SA,Adelaide Plains,Wild Type,55,0.3818181818181818,0.99,High
+2019.2,Walker Flat Almonds,SA,Riverland,Carina,10,0.1,0.0,Low
+2019.2,Walker Flat Almonds,SA,Riverland,Carmel,25,0.08,0.0,Low
+2019.2,Walker Flat Almonds,SA,Riverland,Maxima,6,0.1666666666666666,0.0,Low
+2019.2,Walker Flat Almonds,SA,Riverland,Np,82,0.024390243902439,0.14,Low
+2019.2,Walker Flat Almonds,SA,Riverland,Price,21,0.0,0.0,Low
+2019.2,Wemen,Vic,Sunraysia,Carmel,6,0.0,0.03,Low
+2019.2,Wemen,Vic,Sunraysia,Np,12,0.9166666666666666,0.93,High
+2019.2,Wemen,Vic,Sunraysia,Price,4,0.0,0.02,Low
+2019.2,Yilgah,NSW,Riverina,Carmel,18,0.6111111111111112,0.93,High
+2019.2,Yilgah,NSW,Riverina,Independence,11,0.9090909090909092,0.93,High
+2019.2,Yilgah,NSW,Riverina,Np,19,1.0,0.98,High
+2019.2,Yilgah,NSW,Riverina,Price,5,1.0,0.97,High
