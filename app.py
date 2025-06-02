@@ -16,7 +16,7 @@ st.title("🌾 Almond Hull Rot Risk Predictor")
 # --- Input fields ---
 st.subheader("Enter Orchard and Weather Information")
 orchard = st.text_input("Enter Orchard Name", value="Belvedere")
-variety = st.selectbox("Select Variety", ["NP", "Monterey", "Carina", "Price", "Unknown"])
+variety = st.selectbox("Select Variety", ["Carmel", "NP", "Monterey", "Price", "Unknown"])
 
 # Weather inputs
 col1, col2 = st.columns(2)
@@ -53,13 +53,22 @@ if st.button("Predict HR Risk"):
     else:
         st.error("🔴 High Risk")
 
-    # Optionally export result
+    # Build result dictionary with input and prediction
     result = {
         "Orchard": orchard,
         "Variety": variety,
+        "Days over 40°C": days_40,
+        "Days over 35°C": days_35,
+        "Total Rain Since Jan (ml)": rain_total,
+        "Rain Days Since Jan": rain_days,
+        "Rain in Last Event (<5 days) (ml)": rain_event,
+        "Rain in January (mm)": rain_jan,
+        "Rain in February (mm)": rain_feb,
         "Predicted Risk Probability": round(prob, 3),
         "Risk Level": "Low" if prob < 0.2 else "Medium" if prob < 0.5 else "High"
     }
+
+    # Convert to DataFrame and export as CSV
     result_df = pd.DataFrame([result])
     csv = result_df.to_csv(index=False).encode("utf-8")
     st.download_button("Download Prediction Result", csv, "hr_risk_prediction.csv", "text/csv")
