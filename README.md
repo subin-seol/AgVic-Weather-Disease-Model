@@ -16,7 +16,7 @@ almond-hullrot-risk/
 │   └── HR_processed_data.csv       # Output of preprocessing
 ├── hr_risk_model.pkl               # Trained Random Forest model
 ├── encoder.pkl                     # OneHotEncoder for categorical features
-```text
+```
 
 ---
 
