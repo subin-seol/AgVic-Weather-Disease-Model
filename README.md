@@ -48,9 +48,7 @@ Make sure you have Python 3.9+ and install dependencies:
 pip install streamlit pandas scikit-learn joblib matplotlib seaborn
 
 2. Ensure files are in the correct location
-Place the following in the root directory:
-	•	hr_risk_model.pkl
-	•	encoder.pkl
+Place the following in the root directory: hr_risk_model.pkl, encoder.pkl
 
 3. Run the App
 streamlit run app.py
