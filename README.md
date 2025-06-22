@@ -5,6 +5,7 @@ This project aims to assist almond growers and researchers in predicting the ris
 ---
 
 ## Project Structure
+```text
 almond-hullrot-risk/
 ├── 01_preprocessing.ipynb          # Cleans and aggregates raw tree-level data
 ├── 02_correlation_analysis.ipynb   # Feature selection and relationship analysis
@@ -13,8 +14,8 @@ almond-hullrot-risk/
 ├── data/
 │   ├── Almond disease survey data ALL.csv
 │   └── HR_processed_data.csv       # Output of preprocessing
-├── hr_risk_model.pkl           # Trained Random Forest model
-├── encoder.pkl                 # OneHotEncoder for categorical features
+├── hr_risk_model.pkl               # Trained Random Forest model
+├── encoder.pkl                     # OneHotEncoder for categorical features
 
 ---
 
