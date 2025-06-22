@@ -16,6 +16,7 @@ almond-hullrot-risk/
 │   └── HR_processed_data.csv       # Output of preprocessing
 ├── hr_risk_model.pkl               # Trained Random Forest model
 ├── encoder.pkl                     # OneHotEncoder for categorical features
+```text
 
 ---
 
@@ -46,12 +47,12 @@ The tool allows users to:
 Make sure you have Python 3.9+ and install dependencies:
 pip install streamlit pandas scikit-learn joblib matplotlib seaborn
 
-2.	Ensure files are in the correct location
+2. Ensure files are in the correct location
 Place the following in the root directory:
 
-	•	app.py
-	•	Trained model: hr_risk_model.pkl
-	•	Encoder: encoder.pkl
+	• app.py
+	• Trained model: hr_risk_model.pkl
+	• Encoder: encoder.pkl
 
-3.	Run the App
+3. Run the App
 streamlit run app.py
